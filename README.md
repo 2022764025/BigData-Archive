@@ -1,6 +1,6 @@
 # BigData-Archive
 
-# ML Case Study: Titanic Survival Prediction
+## ML Case Study: Titanic Survival Prediction
 
 > **Data-Driven Approach to Predictive Modeling & Feature Engineering**
 
